@@ -1,4 +1,4 @@
-# FourierDiff
+# WaveLUT
 Official implement of [Optimizing 4D Lookup Table for Low-light Video Enhancement via Wavelet Priori]()
 
 ## Installation
