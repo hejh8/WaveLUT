@@ -4,8 +4,10 @@ Official implement of [Optimizing 4D Lookup Table for Low-light Video Enhancemen
 ## Installation
 ### Environment
 ```
-conda env create --file environment.yml
 conda activate WaveLUT
+pip install -r requirements
+Then:
+python models/WaveLUT/WaveLUT_transform/setup.py install
 ```
 ## Datasets Download
 SDSD and SMID datasets [Wang](https://github.com/dvlab-research/SDSD). DID datasets [Fu](https://github.com/ciki000/DID)
