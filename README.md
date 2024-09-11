@@ -15,9 +15,11 @@ download this [model]() and put it into `WaveLUT/ckpt/`.
 
 ### Quick Start
 
+
 ```
- python main.py --config llve.yml --path_y test -i output
+python quantitative_test.py -opt [YOUR_yml]
 ```
+
 ## TODO
 - [x] Pre-Trained Models
 - [x] Test
