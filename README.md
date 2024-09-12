@@ -18,7 +18,7 @@ download this [model]() and put it into `WaveLUT/ckpt/`.
 
 
 ```
-python test.py -opt [YOUR_yml]
+python evaluation.py -opt [YOUR_yml]
 ```
 
 ## TODO
