@@ -12,6 +12,13 @@ conda activate WaveLUT
 pip install -r requirements
 python models/WaveLUT/transformation/setup.py install
 ```
+
+## TODO
+- [x] Pre-Trained Models
+- [x] Test
+- [ ] Train
+
+      
 ## Datasets Download
 SDSD and SMID datasets [Wang](https://github.com/dvlab-research/SDSD). DID datasets [Fu](https://github.com/ciki000/DID)
 
@@ -20,15 +27,13 @@ download this [model]() and put it into `WaveLUT/ckpt/`.
 
 ### Quick Start
 
-
 ```
 python evaluation.py -opt [YOUR_yml]
 ```
+## Results on Low-light Image Enhancement
+![](Compaire.png)
 
-## TODO
-- [x] Pre-Trained Models
-- [x] Test
-- [ ] Train
+
 ## Citation
 ```
 
