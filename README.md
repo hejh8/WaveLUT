@@ -32,7 +32,7 @@ python evaluation.py -opt [YOUR_yml]
 ```
 ## Results on Low-light Video Enhancement
 ![](Compaire.png)
-
+![](fig.png)
 
 ## Citation
 ```
