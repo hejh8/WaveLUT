@@ -1,6 +1,12 @@
 # WaveLUT
-Official implement of [Optimizing 4D Lookup Table for Low-light Video Enhancement via Wavelet Priori]()
+[Optimizing 4D Lookup Table for Low-light Video Enhancement via Wavelet Priori]()
 
+## Introduction
+<p align="center">
+  <img src="frame.png" />
+</p>
+
+WaveLUT optimizes the 4D lookup table (LUT) technique by wavelet prior, which effectively improves the accuracy of color mapping while maintaining the efficiency. Meanwhile, we explore a dynamic fusion strategy to effectively fuse different a priori knowledge. And we utilize multimodal semantics combined with Fourier frequency domain for perception-oriented appearance driving. Experimental results on benchmark datasets show that our approach reaches the state-of-the-art.
 ## Installation
 ### Environment
 ```
