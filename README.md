@@ -30,7 +30,7 @@ download this [model]() and put it into `WaveLUT/ckpt/`.
 ```
 python evaluation.py -opt [YOUR_yml]
 ```
-## Results on Low-light Image Enhancement
+## Results on Low-light Video Enhancement
 ![](Compaire.png)
 
 
