@@ -1,6 +1,4 @@
-# WaveLUT
-[Optimizing 4D Lookup Table for Low-light Video Enhancement via Wavelet Priori]()
-
+# [Optimizing 4D Lookup Table for Low-light Video Enhancement via Wavelet Priori](WaveLUT)
 ## Introduction
 <p align="center">
   <img src="frame.png" />
