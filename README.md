@@ -23,7 +23,7 @@ python models/WaveLUT/transformation/setup.py install
 SDSD and SMID datasets [Wang](https://github.com/dvlab-research/SDSD). DID datasets [Fu](https://github.com/ciki000/DID)
 
 ### Pre-Trained Models
-download this [model]() and put it into `WaveLUT/ckpt/`.
+download this [model](https://drive.google.com/drive/folders/18_9xDzYmNRpjp6NnWWJedvTiKrXCFxP1?usp=drive_link) and put it into `WaveLUT/ckpt/`.
 
 ### Quick Start
 
