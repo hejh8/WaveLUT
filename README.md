@@ -1,4 +1,4 @@
-# Optimizing 4D Lookup Table for Low-light Video Enhancement via Wavelet Priori.[[WaveLUT]]()
+# Optimizing 4D Lookup Table for Low-light Video Enhancement via Wavelet Priori.[[WaveLUT]](https://arxiv.org/abs/2409.08585)
 ## Introduction
 <p align="center">
   <img src="frame.png" />
@@ -35,5 +35,11 @@ python evaluation.py -opt [YOUR_yml]
 
 ## Citation
 ```
+@article{he2024optimizing,
+  title={Optimizing 4D Lookup Table for Low-light Video Enhancement via Wavelet Priori},
+  author={He, Jinhong and Xue, Minglong and Wang, Wenhai and Zhou, Mingliang},
+  journal={arXiv preprint arXiv:2409.08585},
+  year={2024}
+}
 
 ```
