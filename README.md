@@ -30,7 +30,7 @@ download this [model](https://drive.google.com/drive/folders/18_9xDzYmNRpjp6NnWW
 ```
 python evaluation.py -opt [YOUR_yml]
 ```
-### Quick Start
+### Train
 
 ```
 We plan to release the training code in an upcoming update.
